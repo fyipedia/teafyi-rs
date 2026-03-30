@@ -1,6 +1,6 @@
 [package]
 name = "teafyi"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["FYIPedia"]
 description = "Tea variety guide with brewing parameters and teaware — async API client for teafyi.com."
